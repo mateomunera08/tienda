@@ -34,7 +34,7 @@ function escuchar(event){
     }else if(abonos=="Ocidental=3000") {
 
         alert("el total de su compra es "+(valorOcidental*cantidad))
-    }else if (empanada=="Vip=22000") {
+    }else if (abonos=="Vip=22000") {
 
         alert("el total de su compra es "+(valorVip*cantidad))
     }
