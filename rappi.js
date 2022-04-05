@@ -17,9 +17,9 @@ function escuchar(event){
     let valorFrisburrito=25000
     let valorFrisnack=19000
     let valorFrisbychuleta=30000
-    let valorwowBox=42000
-    let valorMegaFamiliar=52000
-    let valorBigBoxPop=22000
+    let valorWowboxduo=42000
+    let valorMegafamiliar=52000
+    let valorBigboxpop=22000
     let valorDoblePizzaMediana=46000
 
     
@@ -28,11 +28,11 @@ function escuchar(event){
         
         alert("el total de su compra es de"+(valorFristodonte*cantidad))
 
-    }else if(comidas=="frisburrito=25000"){
+    }else if(comidas=="Frisburrito=25000"){
 
         alert("el total de su compra es de"+(valorFrisburrito*cantidad))
         
-    }else if(comidas=="frisnack=19000"){
+    }else if(comidas=="Frisnack=19000"){
 
         alert("el total de su compra es de"+(valorFrisnack*cantidad))
 
@@ -40,21 +40,17 @@ function escuchar(event){
         
         alert("el total de su compra es de"+(valorFrisbychuleta*cantidad))
 
-    }else if(comidas=="wowBox=42000"){
+    }else if(comidas=="Wowboxduo=42000"){
         
-        alert("el total de su compra es de"+(valorwowBox*cantidad))
+        alert("el total de su compra es de"+(valorWowboxduo*cantidad))
         
-    }else if(comidas=="MegaFamiliar=52000"){
+    }else if(comidas=="Megafamiliar=52000"){
         
-        alert("el total de su compra es de"+(valorMegaFamiliar*cantidad))
+        alert("el total de su compra es de"+(valorMegafamiliar*cantidad))
         
-    }else if(comidas=="BigBoxPop=22000"){
+    }else if(comidas=="Bigboxpop=22000"){
         
-        alert("el total de su compra es de"+(valorBigBoxPop*cantidad))
-        
-    }else if(comidas=="BigBoxPop=22000"){
-        
-        alert("el total de su compra es de"+(valorBigBoxPop*cantidad))
+        alert("el total de su compra es de"+(valorBigboxpop*cantidad))
         
     }else if(comidas=="Doblepizzamediana=46000"){
         
